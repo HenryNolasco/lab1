@@ -1,4 +1,4 @@
-package lab1.modules
+package lab1
 
 import lab1.modules.FizzBuzz
 import lab1.modules.PrimeNumberProcessor
